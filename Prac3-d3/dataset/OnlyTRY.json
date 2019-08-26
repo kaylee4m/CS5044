@@ -1,0 +1,2224 @@
+[
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "TRY",
+    "TIME": 2008,
+    "Value": 36.149986
+  },
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "TRY",
+    "TIME": 2009,
+    "Value": 36.881355
+  },
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "TRY",
+    "TIME": 2010,
+    "Value": 37.604309
+  },
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "TRY",
+    "TIME": 2011,
+    "Value": 38.342072
+  },
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "TRY",
+    "TIME": 2012,
+    "Value": 41.282364
+  },
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "TRY",
+    "TIME": 2013,
+    "Value": 39.539928
+  },
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "TRY",
+    "TIME": 2014,
+    "Value": 41.901855
+  },
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "TRY",
+    "TIME": 2015,
+    "Value": 42.888756
+  },
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "TRY",
+    "TIME": 2016,
+    "Value": 43.7439
+  },
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "TRY",
+    "TIME": 2017,
+    "Value": 45.355675
+  },
+  {
+    "LOCATION": "AUT",
+    "SUBJECT": "TRY",
+    "TIME": 2008,
+    "Value": 26.191858
+  },
+  {
+    "LOCATION": "AUT",
+    "SUBJECT": "TRY",
+    "TIME": 2009,
+    "Value": 26.895824
+  },
+  {
+    "LOCATION": "AUT",
+    "SUBJECT": "TRY",
+    "TIME": 2010,
+    "Value": 27.743721
+  },
+  {
+    "LOCATION": "AUT",
+    "SUBJECT": "TRY",
+    "TIME": 2011,
+    "Value": 27.956152
+  },
+  {
+    "LOCATION": "AUT",
+    "SUBJECT": "TRY",
+    "TIME": 2012,
+    "Value": 28.739943
+  },
+  {
+    "LOCATION": "AUT",
+    "SUBJECT": "TRY",
+    "TIME": 2013,
+    "Value": 29.738844
+  },
+  {
+    "LOCATION": "AUT",
+    "SUBJECT": "TRY",
+    "TIME": 2014,
+    "Value": 29.904896
+  },
+  {
+    "LOCATION": "AUT",
+    "SUBJECT": "TRY",
+    "TIME": 2015,
+    "Value": 30.550726
+  },
+  {
+    "LOCATION": "AUT",
+    "SUBJECT": "TRY",
+    "TIME": 2016,
+    "Value": 31.383963
+  },
+  {
+    "LOCATION": "AUT",
+    "SUBJECT": "TRY",
+    "TIME": 2017,
+    "Value": 32.39439
+  },
+  {
+    "LOCATION": "BEL",
+    "SUBJECT": "TRY",
+    "TIME": 2008,
+    "Value": 32.310043
+  },
+  {
+    "LOCATION": "BEL",
+    "SUBJECT": "TRY",
+    "TIME": 2009,
+    "Value": 33.397053
+  },
+  {
+    "LOCATION": "BEL",
+    "SUBJECT": "TRY",
+    "TIME": 2010,
+    "Value": 34.989502
+  },
+  {
+    "LOCATION": "BEL",
+    "SUBJECT": "TRY",
+    "TIME": 2011,
+    "Value": 34.612984
+  },
+  {
+    "LOCATION": "BEL",
+    "SUBJECT": "TRY",
+    "TIME": 2012,
+    "Value": 35.316551
+  },
+  {
+    "LOCATION": "BEL",
+    "SUBJECT": "TRY",
+    "TIME": 2013,
+    "Value": 35.535332
+  },
+  {
+    "LOCATION": "BEL",
+    "SUBJECT": "TRY",
+    "TIME": 2014,
+    "Value": 36.855022
+  },
+  {
+    "LOCATION": "BEL",
+    "SUBJECT": "TRY",
+    "TIME": 2015,
+    "Value": 36.857422
+  },
+  {
+    "LOCATION": "BEL",
+    "SUBJECT": "TRY",
+    "TIME": 2016,
+    "Value": 37.503956
+  },
+  {
+    "LOCATION": "BEL",
+    "SUBJECT": "TRY",
+    "TIME": 2017,
+    "Value": 40.257053
+  },
+  
+  
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "TRY",
+    "TIME": 2008,
+    "Value": 48.706802
+  },
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "TRY",
+    "TIME": 2009,
+    "Value": 49.290722
+  },
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "TRY",
+    "TIME": 2010,
+    "Value": 50.311695
+  },
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "TRY",
+    "TIME": 2011,
+    "Value": 51.033012
+  },
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "TRY",
+    "TIME": 2012,
+    "Value": 52.305416
+  },
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "TRY",
+    "TIME": 2013,
+    "Value": 52.971439
+  },
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "TRY",
+    "TIME": 2014,
+    "Value": 53.61496
+  },
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "TRY",
+    "TIME": 2015,
+    "Value": 55.17366
+  },
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "TRY",
+    "TIME": 2016,
+    "Value": 56.265068
+  },
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "TRY",
+    "TIME": 2017,
+    "Value": 56.71452
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "TRY",
+    "TIME": 2008,
+    "Value": 33.652287
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "TRY",
+    "TIME": 2009,
+    "Value": 35.020153
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "TRY",
+    "TIME": 2010,
+    "Value": 33.881504
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "TRY",
+    "TIME": 2011,
+    "Value": 34.000179
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "TRY",
+    "TIME": 2012,
+    "Value": 35.291126
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "TRY",
+    "TIME": 2013,
+    "Value": 37.407192
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "TRY",
+    "TIME": 2014,
+    "Value": 38.428497
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "TRY",
+    "TIME": 2015,
+    "Value": 39.782719
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "TRY",
+    "TIME": 2016,
+    "Value": 41.235474
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "TRY",
+    "TIME": 2017,
+    "Value": 42.594601
+  },
+  {
+    "LOCATION": "CRI",
+    "SUBJECT": "TRY",
+    "TIME": 2008,
+    "Value": 22.312418
+  },
+  {
+    "LOCATION": "CRI",
+    "SUBJECT": "TRY",
+    "TIME": 2009,
+    "Value": 23.416771
+  },
+  {
+    "LOCATION": "CRI",
+    "SUBJECT": "TRY",
+    "TIME": 2010,
+    "Value": 20.980572
+  },
+  {
+    "LOCATION": "CRI",
+    "SUBJECT": "TRY",
+    "TIME": 2011,
+    "Value": 21.594719
+  },
+  {
+    "LOCATION": "CRI",
+    "SUBJECT": "TRY",
+    "TIME": 2012,
+    "Value": 23.244442
+  },
+  {
+    "LOCATION": "CRI",
+    "SUBJECT": "TRY",
+    "TIME": 2013,
+    "Value": 23.270735
+  },
+  {
+    "LOCATION": "CRI",
+    "SUBJECT": "TRY",
+    "TIME": 2014,
+    "Value": 23.535925
+  },
+  {
+    "LOCATION": "CRI",
+    "SUBJECT": "TRY",
+    "TIME": 2015,
+    "Value": 23.136086
+  },
+  {
+    "LOCATION": "CRI",
+    "SUBJECT": "TRY",
+    "TIME": 2016,
+    "Value": 22.998714
+  },
+  {
+    "LOCATION": "CRI",
+    "SUBJECT": "TRY",
+    "TIME": 2017,
+    "Value": 22.989092
+  },
+  {
+    "LOCATION": "CZE",
+    "SUBJECT": "TRY",
+    "TIME": 2008,
+    "Value": 14.498895
+  },
+  {
+    "LOCATION": "CZE",
+    "SUBJECT": "TRY",
+    "TIME": 2009,
+    "Value": 15.544437
+  },
+  {
+    "LOCATION": "CZE",
+    "SUBJECT": "TRY",
+    "TIME": 2010,
+    "Value": 16.764982
+  },
+  {
+    "LOCATION": "CZE",
+    "SUBJECT": "TRY",
+    "TIME": 2011,
+    "Value": 18.243177
+  },
+  {
+    "LOCATION": "CZE",
+    "SUBJECT": "TRY",
+    "TIME": 2012,
+    "Value": 19.277992
+  },
+  {
+    "LOCATION": "CZE",
+    "SUBJECT": "TRY",
+    "TIME": 2013,
+    "Value": 20.45986
+  },
+  {
+    "LOCATION": "CZE",
+    "SUBJECT": "TRY",
+    "TIME": 2014,
+    "Value": 21.51013
+  },
+  {
+    "LOCATION": "CZE",
+    "SUBJECT": "TRY",
+    "TIME": 2015,
+    "Value": 22.186741
+  },
+  {
+    "LOCATION": "CZE",
+    "SUBJECT": "TRY",
+    "TIME": 2016,
+    "Value": 22.971544
+  },
+  {
+    "LOCATION": "CZE",
+    "SUBJECT": "TRY",
+    "TIME": 2017,
+    "Value": 23.927534
+  },
+  {
+    "LOCATION": "DEU",
+    "SUBJECT": "TRY",
+    "TIME": 2008,
+    "Value": 25.400061
+  },
+  {
+    "LOCATION": "DEU",
+    "SUBJECT": "TRY",
+    "TIME": 2009,
+    "Value": 26.385326
+  },
+  {
+    "LOCATION": "DEU",
+    "SUBJECT": "TRY",
+    "TIME": 2010,
+    "Value": 26.609148
+  },
+  {
+    "LOCATION": "DEU",
+    "SUBJECT": "TRY",
+    "TIME": 2011,
+    "Value": 27.562323
+  },
+  {
+    "LOCATION": "DEU",
+    "SUBJECT": "TRY",
+    "TIME": 2012,
+    "Value": 28.121572
+  },
+  {
+    "LOCATION": "DEU",
+    "SUBJECT": "TRY",
+    "TIME": 2013,
+    "Value": 28.47327
+  },
+  {
+    "LOCATION": "DEU",
+    "SUBJECT": "TRY",
+    "TIME": 2014,
+    "Value": 27.057884
+  },
+  {
+    "LOCATION": "DEU",
+    "SUBJECT": "TRY",
+    "TIME": 2015,
+    "Value": 27.638235
+  },
+  {
+    "LOCATION": "DEU",
+    "SUBJECT": "TRY",
+    "TIME": 2016,
+    "Value": 28.291723
+  },
+  {
+    "LOCATION": "DEU",
+    "SUBJECT": "TRY",
+    "TIME": 2017,
+    "Value": 28.58337
+  },
+  {
+    "LOCATION": "DNK",
+    "SUBJECT": "TRY",
+    "TIME": 2008,
+    "Value": 31.414381
+  },
+  {
+    "LOCATION": "DNK",
+    "SUBJECT": "TRY",
+    "TIME": 2009,
+    "Value": 32.449905
+  },
+  {
+    "LOCATION": "DNK",
+    "SUBJECT": "TRY",
+    "TIME": 2010,
+    "Value": 33.262753
+  },
+  {
+    "LOCATION": "DNK",
+    "SUBJECT": "TRY",
+    "TIME": 2011,
+    "Value": 33.702026
+  },
+  {
+    "LOCATION": "DNK",
+    "SUBJECT": "TRY",
+    "TIME": 2012,
+    "Value": 34.782349
+  },
+  {
+    "LOCATION": "DNK",
+    "SUBJECT": "TRY",
+    "TIME": 2013,
+    "Value": 35.42934
+  },
+  {
+    "LOCATION": "DNK",
+    "SUBJECT": "TRY",
+    "TIME": 2014,
+    "Value": 35.800922
+  },
+  {
+    "LOCATION": "DNK",
+    "SUBJECT": "TRY",
+    "TIME": 2015,
+    "Value": 37.095581
+  },
+  {
+    "LOCATION": "DNK",
+    "SUBJECT": "TRY",
+    "TIME": 2016,
+    "Value": 38.169136
+  },
+  {
+    "LOCATION": "DNK",
+    "SUBJECT": "TRY",
+    "TIME": 2017,
+    "Value": 39.232346
+  },
+  {
+    "LOCATION": "ESP",
+    "SUBJECT": "TRY",
+    "TIME": 2008,
+    "Value": 29.519304
+  },
+  {
+    "LOCATION": "ESP",
+    "SUBJECT": "TRY",
+    "TIME": 2009,
+    "Value": 29.989544
+  },
+  {
+    "LOCATION": "ESP",
+    "SUBJECT": "TRY",
+    "TIME": 2010,
+    "Value": 31.016668
+  },
+  {
+    "LOCATION": "ESP",
+    "SUBJECT": "TRY",
+    "TIME": 2011,
+    "Value": 31.91456
+  },
+  {
+    "LOCATION": "ESP",
+    "SUBJECT": "TRY",
+    "TIME": 2012,
+    "Value": 32.649994
+  },
+  {
+    "LOCATION": "ESP",
+    "SUBJECT": "TRY",
+    "TIME": 2013,
+    "Value": 33.734821
+  },
+  {
+    "LOCATION": "ESP",
+    "SUBJECT": "TRY",
+    "TIME": 2014,
+    "Value": 34.678776
+  },
+  {
+    "LOCATION": "ESP",
+    "SUBJECT": "TRY",
+    "TIME": 2015,
+    "Value": 35.081161
+  },
+  {
+    "LOCATION": "ESP",
+    "SUBJECT": "TRY",
+    "TIME": 2016,
+    "Value": 35.693489
+  },
+  {
+    "LOCATION": "ESP",
+    "SUBJECT": "TRY",
+    "TIME": 2017,
+    "Value": 36.351273
+  },
+  {
+    "LOCATION": "EST",
+    "SUBJECT": "TRY",
+    "TIME": 2008,
+    "Value": 34.176804
+  },
+  {
+    "LOCATION": "EST",
+    "SUBJECT": "TRY",
+    "TIME": 2009,
+    "Value": 36.065544
+  },
+  {
+    "LOCATION": "EST",
+    "SUBJECT": "TRY",
+    "TIME": 2010,
+    "Value": 35.423084
+  },
+  {
+    "LOCATION": "EST",
+    "SUBJECT": "TRY",
+    "TIME": 2011,
+    "Value": 36.889767
+  },
+  {
+    "LOCATION": "EST",
+    "SUBJECT": "TRY",
+    "TIME": 2012,
+    "Value": 37.605877
+  },
+  {
+    "LOCATION": "EST",
+    "SUBJECT": "TRY",
+    "TIME": 2013,
+    "Value": 37.345535
+  },
+  {
+    "LOCATION": "EST",
+    "SUBJECT": "TRY",
+    "TIME": 2014,
+    "Value": 37.499954
+  },
+  {
+    "LOCATION": "EST",
+    "SUBJECT": "TRY",
+    "TIME": 2015,
+    "Value": 38.030697
+  },
+  {
+    "LOCATION": "EST",
+    "SUBJECT": "TRY",
+    "TIME": 2016,
+    "Value": 38.756851
+  },
+  {
+    "LOCATION": "EST",
+    "SUBJECT": "TRY",
+    "TIME": 2017,
+    "Value": 39.663879
+  },
+  {
+    "LOCATION": "FIN",
+    "SUBJECT": "TRY",
+    "TIME": 2008,
+    "Value": 36.583557
+  },
+  {
+    "LOCATION": "FIN",
+    "SUBJECT": "TRY",
+    "TIME": 2009,
+    "Value": 37.268574
+  },
+  {
+    "LOCATION": "FIN",
+    "SUBJECT": "TRY",
+    "TIME": 2010,
+    "Value": 38.146343
+  },
+  {
+    "LOCATION": "FIN",
+    "SUBJECT": "TRY",
+    "TIME": 2011,
+    "Value": 39.318207
+  },
+  {
+    "LOCATION": "FIN",
+    "SUBJECT": "TRY",
+    "TIME": 2012,
+    "Value": 39.661289
+  },
+  {
+    "LOCATION": "FIN",
+    "SUBJECT": "TRY",
+    "TIME": 2013,
+    "Value": 40.545231
+  },
+  {
+    "LOCATION": "FIN",
+    "SUBJECT": "TRY",
+    "TIME": 2014,
+    "Value": 41.776676
+  },
+  {
+    "LOCATION": "FIN",
+    "SUBJECT": "TRY",
+    "TIME": 2015,
+    "Value": 42.742619
+  },
+  {
+    "LOCATION": "FIN",
+    "SUBJECT": "TRY",
+    "TIME": 2016,
+    "Value": 43.595264
+  },
+  {
+    "LOCATION": "FIN",
+    "SUBJECT": "TRY",
+    "TIME": 2017,
+    "Value": 44.304253
+  },
+  {
+    "LOCATION": "FRA",
+    "SUBJECT": "TRY",
+    "TIME": 2008,
+    "Value": 27.233906
+  },
+  {
+    "LOCATION": "FRA",
+    "SUBJECT": "TRY",
+    "TIME": 2009,
+    "Value": 28.588057
+  },
+  {
+    "LOCATION": "FRA",
+    "SUBJECT": "TRY",
+    "TIME": 2010,
+    "Value": 29.006897
+  },
+  {
+    "LOCATION": "FRA",
+    "SUBJECT": "TRY",
+    "TIME": 2011,
+    "Value": 29.767
+  },
+  {
+    "LOCATION": "FRA",
+    "SUBJECT": "TRY",
+    "TIME": 2012,
+    "Value": 30.856123
+  },
+  {
+    "LOCATION": "FRA",
+    "SUBJECT": "TRY",
+    "TIME": 2013,
+    "Value": 32.105263
+  },
+  {
+    "LOCATION": "FRA",
+    "SUBJECT": "TRY",
+    "TIME": 2014,
+    "Value": 33.539047
+  },
+  {
+    "LOCATION": "FRA",
+    "SUBJECT": "TRY",
+    "TIME": 2015,
+    "Value": 34.085361
+  },
+  {
+    "LOCATION": "FRA",
+    "SUBJECT": "TRY",
+    "TIME": 2016,
+    "Value": 34.582485
+  },
+  {
+    "LOCATION": "FRA",
+    "SUBJECT": "TRY",
+    "TIME": 2017,
+    "Value": 35.213791
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "TRY",
+    "TIME": 2008,
+    "Value": 35.216167
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "TRY",
+    "TIME": 2009,
+    "Value": 36.984959
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "TRY",
+    "TIME": 2010,
+    "Value": 38.187191
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "TRY",
+    "TIME": 2011,
+    "Value": 39.412373
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "TRY",
+    "TIME": 2012,
+    "Value": 40.977753
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "TRY",
+    "TIME": 2013,
+    "Value": 41.891979
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "TRY",
+    "TIME": 2014,
+    "Value": 42.217449
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "TRY",
+    "TIME": 2015,
+    "Value": 44.197987
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "TRY",
+    "TIME": 2016,
+    "Value": 45.766762
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "TRY",
+    "TIME": 2017,
+    "Value": 45.744305
+  },
+  {
+    "LOCATION": "GRC",
+    "SUBJECT": "TRY",
+    "TIME": 2008,
+    "Value": 23.535585
+  },
+  {
+    "LOCATION": "GRC",
+    "SUBJECT": "TRY",
+    "TIME": 2009,
+    "Value": 23.656685
+  },
+  {
+    "LOCATION": "GRC",
+    "SUBJECT": "TRY",
+    "TIME": 2010,
+    "Value": 24.744848
+  },
+  {
+    "LOCATION": "GRC",
+    "SUBJECT": "TRY",
+    "TIME": 2011,
+    "Value": 26.112072
+  },
+  {
+    "LOCATION": "GRC",
+    "SUBJECT": "TRY",
+    "TIME": 2012,
+    "Value": 26.719267
+  },
+  {
+    "LOCATION": "GRC",
+    "SUBJECT": "TRY",
+    "TIME": 2013,
+    "Value": 27.423178
+  },
+  {
+    "LOCATION": "GRC",
+    "SUBJECT": "TRY",
+    "TIME": 2014,
+    "Value": 28.105659
+  },
+  {
+    "LOCATION": "GRC",
+    "SUBJECT": "TRY",
+    "TIME": 2015,
+    "Value": 29.057495
+  },
+  {
+    "LOCATION": "GRC",
+    "SUBJECT": "TRY",
+    "TIME": 2016,
+    "Value": 30.231607
+  },
+  {
+    "LOCATION": "GRC",
+    "SUBJECT": "TRY",
+    "TIME": 2017,
+    "Value": 31.027514
+  },
+  {
+    "LOCATION": "HUN",
+    "SUBJECT": "TRY",
+    "TIME": 2008,
+    "Value": 19.197906
+  },
+  {
+    "LOCATION": "HUN",
+    "SUBJECT": "TRY",
+    "TIME": 2009,
+    "Value": 19.86219
+  },
+  {
+    "LOCATION": "HUN",
+    "SUBJECT": "TRY",
+    "TIME": 2010,
+    "Value": 20.121918
+  },
+  {
+    "LOCATION": "HUN",
+    "SUBJECT": "TRY",
+    "TIME": 2011,
+    "Value": 21.124001
+  },
+  {
+    "LOCATION": "HUN",
+    "SUBJECT": "TRY",
+    "TIME": 2012,
+    "Value": 22.046715
+  },
+  {
+    "LOCATION": "HUN",
+    "SUBJECT": "TRY",
+    "TIME": 2013,
+    "Value": 22.505821
+  },
+  {
+    "LOCATION": "HUN",
+    "SUBJECT": "TRY",
+    "TIME": 2014,
+    "Value": 23.356073
+  },
+  {
+    "LOCATION": "HUN",
+    "SUBJECT": "TRY",
+    "TIME": 2015,
+    "Value": 24.242552
+  },
+  {
+    "LOCATION": "HUN",
+    "SUBJECT": "TRY",
+    "TIME": 2016,
+    "Value": 23.713329
+  },
+  {
+    "LOCATION": "HUN",
+    "SUBJECT": "TRY",
+    "TIME": 2017,
+    "Value": 24.054041
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "TRY",
+    "TIME": 2008,
+    "Value": 6.4554873
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "TRY",
+    "TIME": 2009,
+    "Value": 7.5285029
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "TRY",
+    "TIME": 2010,
+    "Value": 7.9779863
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "TRY",
+    "TIME": 2011,
+    "Value": 8.1564999
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "TRY",
+    "TIME": 2012,
+    "Value": 9.007103
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "TRY",
+    "TIME": 2013,
+    "Value": 9.3885174
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "TRY",
+    "TIME": 2014,
+    "Value": 9.6783018
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "TRY",
+    "TIME": 2015,
+    "Value": 10.567527
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "TRY",
+    "TIME": 2016,
+    "Value": 11.337651
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "TRY",
+    "TIME": 2017,
+    "Value": 11.857569
+  },
+  {
+    "LOCATION": "ISL",
+    "SUBJECT": "TRY",
+    "TIME": 2008,
+    "Value": 31.591888
+  },
+  {
+    "LOCATION": "ISL",
+    "SUBJECT": "TRY",
+    "TIME": 2009,
+    "Value": 32.907246
+  },
+  {
+    "LOCATION": "ISL",
+    "SUBJECT": "TRY",
+    "TIME": 2010,
+    "Value": 32.632442
+  },
+  {
+    "LOCATION": "ISL",
+    "SUBJECT": "TRY",
+    "TIME": 2011,
+    "Value": 33.774651
+  },
+  {
+    "LOCATION": "ISL",
+    "SUBJECT": "TRY",
+    "TIME": 2012,
+    "Value": 35.01783
+  },
+  {
+    "LOCATION": "ISL",
+    "SUBJECT": "TRY",
+    "TIME": 2013,
+    "Value": 36.08242
+  },
+  {
+    "LOCATION": "ISL",
+    "SUBJECT": "TRY",
+    "TIME": 2014,
+    "Value": 37.088051
+  },
+  {
+    "LOCATION": "ISL",
+    "SUBJECT": "TRY",
+    "TIME": 2015,
+    "Value": 38.841152
+  },
+  {
+    "LOCATION": "ISL",
+    "SUBJECT": "TRY",
+    "TIME": 2016,
+    "Value": 40.475002
+  },
+  {
+    "LOCATION": "ISL",
+    "SUBJECT": "TRY",
+    "TIME": 2017,
+    "Value": 42.38409
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "TRY",
+    "TIME": 2008,
+    "Value": 43.980537
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "TRY",
+    "TIME": 2009,
+    "Value": 44.880913
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "TRY",
+    "TIME": 2010,
+    "Value": 45.560074
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "TRY",
+    "TIME": 2011,
+    "Value": 46.396889
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "TRY",
+    "TIME": 2012,
+    "Value": 46.441711
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "TRY",
+    "TIME": 2013,
+    "Value": 47.421043
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "TRY",
+    "TIME": 2014,
+    "Value": 48.53273
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "TRY",
+    "TIME": 2015,
+    "Value": 48.824478
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "TRY",
+    "TIME": 2016,
+    "Value": 49.895348
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "TRY",
+    "TIME": 2017,
+    "Value": 50.91605
+  },
+  {
+    "LOCATION": "ITA",
+    "SUBJECT": "TRY",
+    "TIME": 2008,
+    "Value": 14.357011
+  },
+  {
+    "LOCATION": "ITA",
+    "SUBJECT": "TRY",
+    "TIME": 2009,
+    "Value": 14.510798
+  },
+  {
+    "LOCATION": "ITA",
+    "SUBJECT": "TRY",
+    "TIME": 2010,
+    "Value": 14.802574
+  },
+  {
+    "LOCATION": "ITA",
+    "SUBJECT": "TRY",
+    "TIME": 2011,
+    "Value": 14.935372
+  },
+  {
+    "LOCATION": "ITA",
+    "SUBJECT": "TRY",
+    "TIME": 2012,
+    "Value": 15.708264
+  },
+  {
+    "LOCATION": "ITA",
+    "SUBJECT": "TRY",
+    "TIME": 2013,
+    "Value": 16.289694
+  },
+  {
+    "LOCATION": "ITA",
+    "SUBJECT": "TRY",
+    "TIME": 2014,
+    "Value": 16.910578
+  },
+  {
+    "LOCATION": "ITA",
+    "SUBJECT": "TRY",
+    "TIME": 2015,
+    "Value": 17.546457
+  },
+  {
+    "LOCATION": "ITA",
+    "SUBJECT": "TRY",
+    "TIME": 2016,
+    "Value": 17.723593
+  },
+  {
+    "LOCATION": "ITA",
+    "SUBJECT": "TRY",
+    "TIME": 2017,
+    "Value": 18.669672
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "TRY",
+    "TIME": 2008,
+    "Value": 42.842262
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "TRY",
+    "TIME": 2009,
+    "Value": 43.764038
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "TRY",
+    "TIME": 2010,
+    "Value": 44.809975
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "TRY",
+    "TIME": 2011,
+    "Value": 46.364063
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "TRY",
+    "TIME": 2012,
+    "Value": 46.619377
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "TRY",
+    "TIME": 2013,
+    "Value": 47.311993
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "TRY",
+    "TIME": 2014,
+    "Value": 48.185074
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "TRY",
+    "TIME": 2015,
+    "Value": 49.541573
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "TRY",
+    "TIME": 2016,
+    "Value": 50.496956
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "TRY",
+    "TIME": 2017,
+    "Value": 51.440529
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "TRY",
+    "TIME": 2008,
+    "Value": 36.669804
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "TRY",
+    "TIME": 2009,
+    "Value": 38.470245
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "TRY",
+    "TIME": 2010,
+    "Value": 39.044632
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "TRY",
+    "TIME": 2011,
+    "Value": 40.381783
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "TRY",
+    "TIME": 2012,
+    "Value": 41.746613
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "TRY",
+    "TIME": 2013,
+    "Value": 43.075195
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "TRY",
+    "TIME": 2014,
+    "Value": 44.49865
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "TRY",
+    "TIME": 2015,
+    "Value": 45.356678
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "TRY",
+    "TIME": 2016,
+    "Value": 46.643951
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "TRY",
+    "TIME": 2017,
+    "Value": 47.744724
+  },
+  {
+    "LOCATION": "LTU",
+    "SUBJECT": "TRY",
+    "TIME": 2008,
+    "Value": 30.408518
+  },
+  {
+    "LOCATION": "LTU",
+    "SUBJECT": "TRY",
+    "TIME": 2009,
+    "Value": 30.958277
+  },
+  {
+    "LOCATION": "LTU",
+    "SUBJECT": "TRY",
+    "TIME": 2010,
+    "Value": 32.440029
+  },
+  {
+    "LOCATION": "LTU",
+    "SUBJECT": "TRY",
+    "TIME": 2011,
+    "Value": 33.489258
+  },
+  {
+    "LOCATION": "LTU",
+    "SUBJECT": "TRY",
+    "TIME": 2012,
+    "Value": 34.05378
+  },
+  {
+    "LOCATION": "LTU",
+    "SUBJECT": "TRY",
+    "TIME": 2013,
+    "Value": 35.19833
+  },
+  {
+    "LOCATION": "LTU",
+    "SUBJECT": "TRY",
+    "TIME": 2014,
+    "Value": 36.668087
+  },
+  {
+    "LOCATION": "LTU",
+    "SUBJECT": "TRY",
+    "TIME": 2015,
+    "Value": 38.724106
+  },
+  {
+    "LOCATION": "LTU",
+    "SUBJECT": "TRY",
+    "TIME": 2016,
+    "Value": 39.732628
+  },
+  {
+    "LOCATION": "LTU",
+    "SUBJECT": "TRY",
+    "TIME": 2017,
+    "Value": 40.273941
+  },
+  {
+    "LOCATION": "LUX",
+    "SUBJECT": "TRY",
+    "TIME": 2008,
+    "Value": 27.653927
+  },
+  {
+    "LOCATION": "LUX",
+    "SUBJECT": "TRY",
+    "TIME": 2009,
+    "Value": 34.795971
+  },
+  {
+    "LOCATION": "LUX",
+    "SUBJECT": "TRY",
+    "TIME": 2010,
+    "Value": 35.475895
+  },
+  {
+    "LOCATION": "LUX",
+    "SUBJECT": "TRY",
+    "TIME": 2011,
+    "Value": 37.034779
+  },
+  {
+    "LOCATION": "LUX",
+    "SUBJECT": "TRY",
+    "TIME": 2012,
+    "Value": 39.110382
+  },
+  {
+    "LOCATION": "LUX",
+    "SUBJECT": "TRY",
+    "TIME": 2013,
+    "Value": 40.673241
+  },
+  {
+    "LOCATION": "LUX",
+    "SUBJECT": "TRY",
+    "TIME": 2014,
+    "Value": 45.935593
+  },
+  {
+    "LOCATION": "LUX",
+    "SUBJECT": "TRY",
+    "TIME": 2015,
+    "Value": 39.794865
+  },
+  {
+    "LOCATION": "LUX",
+    "SUBJECT": "TRY",
+    "TIME": 2016,
+    "Value": 42.856003
+  },
+  {
+    "LOCATION": "LUX",
+    "SUBJECT": "TRY",
+    "TIME": 2017,
+    "Value": 40.325737
+  },
+  {
+    "LOCATION": "LVA",
+    "SUBJECT": "TRY",
+    "TIME": 2008,
+    "Value": 24.822483
+  },
+  {
+    "LOCATION": "LVA",
+    "SUBJECT": "TRY",
+    "TIME": 2009,
+    "Value": 25.846195
+  },
+  {
+    "LOCATION": "LVA",
+    "SUBJECT": "TRY",
+    "TIME": 2010,
+    "Value": 26.946114
+  },
+  {
+    "LOCATION": "LVA",
+    "SUBJECT": "TRY",
+    "TIME": 2011,
+    "Value": 27.69327
+  },
+  {
+    "LOCATION": "LVA",
+    "SUBJECT": "TRY",
+    "TIME": 2012,
+    "Value": 29.227177
+  },
+  {
+    "LOCATION": "LVA",
+    "SUBJECT": "TRY",
+    "TIME": 2013,
+    "Value": 31.011995
+  },
+  {
+    "LOCATION": "LVA",
+    "SUBJECT": "TRY",
+    "TIME": 2014,
+    "Value": 30.230137
+  },
+  {
+    "LOCATION": "LVA",
+    "SUBJECT": "TRY",
+    "TIME": 2015,
+    "Value": 31.591949
+  },
+  {
+    "LOCATION": "LVA",
+    "SUBJECT": "TRY",
+    "TIME": 2016,
+    "Value": 33.361481
+  },
+  {
+    "LOCATION": "LVA",
+    "SUBJECT": "TRY",
+    "TIME": 2017,
+    "Value": 33.882294
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "TRY",
+    "TIME": 2008,
+    "Value": 13.672557
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "TRY",
+    "TIME": 2009,
+    "Value": 14.308427
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "TRY",
+    "TIME": 2010,
+    "Value": 14.654601
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "TRY",
+    "TIME": 2011,
+    "Value": 15.012249
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "TRY",
+    "TIME": 2012,
+    "Value": 15.709545
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "TRY",
+    "TIME": 2013,
+    "Value": 16.20183
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "TRY",
+    "TIME": 2014,
+    "Value": 15.996383
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "TRY",
+    "TIME": 2015,
+    "Value": 16.278801
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "TRY",
+    "TIME": 2016,
+    "Value": 16.818605
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "TRY",
+    "TIME": 2017,
+    "Value": 17.418995
+  },
+  {
+    "LOCATION": "NLD",
+    "SUBJECT": "TRY",
+    "TIME": 2008,
+    "Value": 32.167362
+  },
+  {
+    "LOCATION": "NLD",
+    "SUBJECT": "TRY",
+    "TIME": 2009,
+    "Value": 32.785397
+  },
+  {
+    "LOCATION": "NLD",
+    "SUBJECT": "TRY",
+    "TIME": 2010,
+    "Value": 32.389164
+  },
+  {
+    "LOCATION": "NLD",
+    "SUBJECT": "TRY",
+    "TIME": 2011,
+    "Value": 32.041344
+  },
+  {
+    "LOCATION": "NLD",
+    "SUBJECT": "TRY",
+    "TIME": 2012,
+    "Value": 34.398335
+  },
+  {
+    "LOCATION": "NLD",
+    "SUBJECT": "TRY",
+    "TIME": 2013,
+    "Value": 33.869305
+  },
+  {
+    "LOCATION": "NLD",
+    "SUBJECT": "TRY",
+    "TIME": 2014,
+    "Value": 34.419815
+  },
+  {
+    "LOCATION": "NLD",
+    "SUBJECT": "TRY",
+    "TIME": 2015,
+    "Value": 35.330765
+  },
+  {
+    "LOCATION": "NLD",
+    "SUBJECT": "TRY",
+    "TIME": 2016,
+    "Value": 35.999168
+  },
+  {
+    "LOCATION": "NLD",
+    "SUBJECT": "TRY",
+    "TIME": 2017,
+    "Value": 37.16811
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "TRY",
+    "TIME": 2008,
+    "Value": 36.004189
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "TRY",
+    "TIME": 2009,
+    "Value": 36.698498
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "TRY",
+    "TIME": 2010,
+    "Value": 37.284328
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "TRY",
+    "TIME": 2011,
+    "Value": 38.053513
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "TRY",
+    "TIME": 2012,
+    "Value": 38.561893
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "TRY",
+    "TIME": 2013,
+    "Value": 39.770252
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "TRY",
+    "TIME": 2014,
+    "Value": 41.757915
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "TRY",
+    "TIME": 2015,
+    "Value": 42.706734
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "TRY",
+    "TIME": 2016,
+    "Value": 43.016758
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "TRY",
+    "TIME": 2017,
+    "Value": 43.207031
+  },
+  {
+    "LOCATION": "OAVG",
+    "SUBJECT": "TRY",
+    "TIME": 2008,
+    "Value": 28.773557
+  },
+  {
+    "LOCATION": "OAVG",
+    "SUBJECT": "TRY",
+    "TIME": 2009,
+    "Value": 29.515163
+  },
+  {
+    "LOCATION": "OAVG",
+    "SUBJECT": "TRY",
+    "TIME": 2010,
+    "Value": 30.560193
+  },
+  {
+    "LOCATION": "OAVG",
+    "SUBJECT": "TRY",
+    "TIME": 2011,
+    "Value": 31.058533
+  },
+  {
+    "LOCATION": "OAVG",
+    "SUBJECT": "TRY",
+    "TIME": 2012,
+    "Value": 32.483346
+  },
+  {
+    "LOCATION": "OAVG",
+    "SUBJECT": "TRY",
+    "TIME": 2013,
+    "Value": 32.978443
+  },
+  {
+    "LOCATION": "OAVG",
+    "SUBJECT": "TRY",
+    "TIME": 2014,
+    "Value": 34.296521
+  },
+  {
+    "LOCATION": "OAVG",
+    "SUBJECT": "TRY",
+    "TIME": 2015,
+    "Value": 34.662088
+  },
+  {
+    "LOCATION": "OAVG",
+    "SUBJECT": "TRY",
+    "TIME": 2016,
+    "Value": 35.783563
+  },
+  {
+    "LOCATION": "OAVG",
+    "SUBJECT": "TRY",
+    "TIME": 2017,
+    "Value": 36.911428
+  },
+  {
+    "LOCATION": "POL",
+    "SUBJECT": "TRY",
+    "TIME": 2008,
+    "Value": 19.565832
+  },
+  {
+    "LOCATION": "POL",
+    "SUBJECT": "TRY",
+    "TIME": 2009,
+    "Value": 21.150869
+  },
+  {
+    "LOCATION": "POL",
+    "SUBJECT": "TRY",
+    "TIME": 2010,
+    "Value": 22.468407
+  },
+  {
+    "LOCATION": "POL",
+    "SUBJECT": "TRY",
+    "TIME": 2011,
+    "Value": 23.283596
+  },
+  {
+    "LOCATION": "POL",
+    "SUBJECT": "TRY",
+    "TIME": 2012,
+    "Value": 24.512804
+  },
+  {
+    "LOCATION": "POL",
+    "SUBJECT": "TRY",
+    "TIME": 2013,
+    "Value": 25.755669
+  },
+  {
+    "LOCATION": "POL",
+    "SUBJECT": "TRY",
+    "TIME": 2014,
+    "Value": 26.995474
+  },
+  {
+    "LOCATION": "POL",
+    "SUBJECT": "TRY",
+    "TIME": 2015,
+    "Value": 27.747267
+  },
+  {
+    "LOCATION": "POL",
+    "SUBJECT": "TRY",
+    "TIME": 2016,
+    "Value": 28.711193
+  },
+  {
+    "LOCATION": "POL",
+    "SUBJECT": "TRY",
+    "TIME": 2017,
+    "Value": 29.919453
+  },
+  {
+    "LOCATION": "PRT",
+    "SUBJECT": "TRY",
+    "TIME": 2008,
+    "Value": 14.300379
+  },
+  {
+    "LOCATION": "PRT",
+    "SUBJECT": "TRY",
+    "TIME": 2009,
+    "Value": 14.66682
+  },
+  {
+    "LOCATION": "PRT",
+    "SUBJECT": "TRY",
+    "TIME": 2010,
+    "Value": 15.445285
+  },
+  {
+    "LOCATION": "PRT",
+    "SUBJECT": "TRY",
+    "TIME": 2011,
+    "Value": 17.25703
+  },
+  {
+    "LOCATION": "PRT",
+    "SUBJECT": "TRY",
+    "TIME": 2012,
+    "Value": 18.534111
+  },
+  {
+    "LOCATION": "PRT",
+    "SUBJECT": "TRY",
+    "TIME": 2013,
+    "Value": 19.307142
+  },
+  {
+    "LOCATION": "PRT",
+    "SUBJECT": "TRY",
+    "TIME": 2014,
+    "Value": 21.7169
+  },
+  {
+    "LOCATION": "PRT",
+    "SUBJECT": "TRY",
+    "TIME": 2015,
+    "Value": 22.857506
+  },
+  {
+    "LOCATION": "PRT",
+    "SUBJECT": "TRY",
+    "TIME": 2016,
+    "Value": 23.847389
+  },
+  {
+    "LOCATION": "PRT",
+    "SUBJECT": "TRY",
+    "TIME": 2017,
+    "Value": 24.039421
+  },
+  {
+    "LOCATION": "SVK",
+    "SUBJECT": "TRY",
+    "TIME": 2008,
+    "Value": 14.763523
+  },
+  {
+    "LOCATION": "SVK",
+    "SUBJECT": "TRY",
+    "TIME": 2009,
+    "Value": 15.762831
+  },
+  {
+    "LOCATION": "SVK",
+    "SUBJECT": "TRY",
+    "TIME": 2010,
+    "Value": 17.327984
+  },
+  {
+    "LOCATION": "SVK",
+    "SUBJECT": "TRY",
+    "TIME": 2011,
+    "Value": 18.617317
+  },
+  {
+    "LOCATION": "SVK",
+    "SUBJECT": "TRY",
+    "TIME": 2012,
+    "Value": 18.979084
+  },
+  {
+    "LOCATION": "SVK",
+    "SUBJECT": "TRY",
+    "TIME": 2013,
+    "Value": 19.87734
+  },
+  {
+    "LOCATION": "SVK",
+    "SUBJECT": "TRY",
+    "TIME": 2014,
+    "Value": 20.379578
+  },
+  {
+    "LOCATION": "SVK",
+    "SUBJECT": "TRY",
+    "TIME": 2015,
+    "Value": 21.149881
+  },
+  {
+    "LOCATION": "SVK",
+    "SUBJECT": "TRY",
+    "TIME": 2016,
+    "Value": 21.979519
+  },
+  {
+    "LOCATION": "SVK",
+    "SUBJECT": "TRY",
+    "TIME": 2017,
+    "Value": 23.095415
+  },
+  {
+    "LOCATION": "SVN",
+    "SUBJECT": "TRY",
+    "TIME": 2008,
+    "Value": 22.637665
+  },
+  {
+    "LOCATION": "SVN",
+    "SUBJECT": "TRY",
+    "TIME": 2009,
+    "Value": 23.315817
+  },
+  {
+    "LOCATION": "SVN",
+    "SUBJECT": "TRY",
+    "TIME": 2010,
+    "Value": 23.716619
+  },
+  {
+    "LOCATION": "SVN",
+    "SUBJECT": "TRY",
+    "TIME": 2011,
+    "Value": 25.09059
+  },
+  {
+    "LOCATION": "SVN",
+    "SUBJECT": "TRY",
+    "TIME": 2012,
+    "Value": 26.439035
+  },
+  {
+    "LOCATION": "SVN",
+    "SUBJECT": "TRY",
+    "TIME": 2013,
+    "Value": 27.880541
+  },
+  {
+    "LOCATION": "SVN",
+    "SUBJECT": "TRY",
+    "TIME": 2014,
+    "Value": 28.600916
+  },
+  {
+    "LOCATION": "SVN",
+    "SUBJECT": "TRY",
+    "TIME": 2015,
+    "Value": 30.173296
+  },
+  {
+    "LOCATION": "SVN",
+    "SUBJECT": "TRY",
+    "TIME": 2016,
+    "Value": 30.735788
+  },
+  {
+    "LOCATION": "SVN",
+    "SUBJECT": "TRY",
+    "TIME": 2017,
+    "Value": 34.302807
+  },
+  {
+    "LOCATION": "SWE",
+    "SUBJECT": "TRY",
+    "TIME": 2008,
+    "Value": 32.02702
+  },
+  {
+    "LOCATION": "SWE",
+    "SUBJECT": "TRY",
+    "TIME": 2009,
+    "Value": 33.060085
+  },
+  {
+    "LOCATION": "SWE",
+    "SUBJECT": "TRY",
+    "TIME": 2010,
+    "Value": 33.868935
+  },
+  {
+    "LOCATION": "SWE",
+    "SUBJECT": "TRY",
+    "TIME": 2011,
+    "Value": 35.174355
+  },
+  {
+    "LOCATION": "SWE",
+    "SUBJECT": "TRY",
+    "TIME": 2012,
+    "Value": 35.698952
+  },
+  {
+    "LOCATION": "SWE",
+    "SUBJECT": "TRY",
+    "TIME": 2013,
+    "Value": 37.034386
+  },
+  {
+    "LOCATION": "SWE",
+    "SUBJECT": "TRY",
+    "TIME": 2014,
+    "Value": 38.700306
+  },
+  {
+    "LOCATION": "SWE",
+    "SUBJECT": "TRY",
+    "TIME": 2015,
+    "Value": 39.786552
+  },
+  {
+    "LOCATION": "SWE",
+    "SUBJECT": "TRY",
+    "TIME": 2016,
+    "Value": 41.139179
+  },
+  {
+    "LOCATION": "SWE",
+    "SUBJECT": "TRY",
+    "TIME": 2017,
+    "Value": 41.936691
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "TRY",
+    "TIME": 2008,
+    "Value": 12.040659
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "TRY",
+    "TIME": 2009,
+    "Value": 12.710275
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "TRY",
+    "TIME": 2010,
+    "Value": 13.118464
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "TRY",
+    "TIME": 2011,
+    "Value": 14.034094
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "TRY",
+    "TIME": 2012,
+    "Value": 15.290227
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "TRY",
+    "TIME": 2013,
+    "Value": 15.907355
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "TRY",
+    "TIME": 2014,
+    "Value": 16.693634
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "TRY",
+    "TIME": 2015,
+    "Value": 18.020138
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "TRY",
+    "TIME": 2016,
+    "Value": 19.362528
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "TRY",
+    "TIME": 2017,
+    "Value": 20.013071
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "TRY",
+    "TIME": 2008,
+    "Value": 41.10516
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "TRY",
+    "TIME": 2009,
+    "Value": 41.214626
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "TRY",
+    "TIME": 2010,
+    "Value": 41.662415
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "TRY",
+    "TIME": 2011,
+    "Value": 42.44838
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "TRY",
+    "TIME": 2012,
+    "Value": 43.052437
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "TRY",
+    "TIME": 2013,
+    "Value": 43.910252
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "TRY",
+    "TIME": 2014,
+    "Value": 44.224617
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "TRY",
+    "TIME": 2015,
+    "Value": 44.629398
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "TRY",
+    "TIME": 2016,
+    "Value": 45.666355
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "TRY",
+    "TIME": 2017,
+    "Value": 46.3568
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "TRY",
+    "TIME": 2008,
+    "Value": 5.1217265
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "TRY",
+    "TIME": 2009,
+    "Value": 5.0579209
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "TRY",
+    "TIME": 2010,
+    "Value": 5.2690744
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "TRY",
+    "TIME": 2011,
+    "Value": 5.6500921
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "TRY",
+    "TIME": 2012,
+    "Value": 5.5786242
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "TRY",
+    "TIME": 2013,
+    "Value": 6.4559345
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "TRY",
+    "TIME": 2014,
+    "Value": 6.4785309
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "TRY",
+    "TIME": 2015,
+    "Value": 6.9889388
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "TRY",
+    "TIME": 2016,
+    "Value": 6.9798017
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "TRY",
+    "TIME": 2017,
+    "Value": 7.4416285
+  }
+]

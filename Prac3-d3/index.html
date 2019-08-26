@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Adult Education Level</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.2/css/bulma.min.css">
+  <link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.0.0/css/bootstrap.min.css">
+  <link rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/10.6.1/css/bootstrap-slider.min.css">
+  <link rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-multiselect/0.9.15/css/bootstrap-multiselect.css">
+  <link rel="stylesheet" href="css/style.css">
+
+
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+  <script src="https://cdn.bootcss.com/jquery/3.2.1/jquery.slim.min.js"></script>
+  <script src="https://cdn.bootcss.com/popper.js/1.12.9/umd/popper.min.js"></script>
+  <script src="https://cdn.bootcss.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/10.6.1/bootstrap-slider.min.js"></script>
+  <script
+    src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-multiselect/0.9.15/js/bootstrap-multiselect.min.js"></script>
+  <style>
+    .bar {
+      fill: #3781b2;
+    }
+
+    .bar:hover {
+      fill: #F0b87A;
+    }
+
+    .axis--x path {
+      display: none;
+    }
+
+    .d3-tip {
+      display: flex;
+      flex-direction: column;
+      position: absolute;
+      line-height: 1;
+      font-weight: bold;
+      padding: 12px;
+      background-color: antiquewhite;
+      color: #fff;
+      border-radius: 2px;
+    }
+
+    .d3-tip:after {
+      box-sizing: border-box;
+      display: inline;
+      font-size: 10px;
+      width: 100%;
+      line-height: 1;
+      color: antiquewhite;
+      content: '\25BC';
+      position: absolute;
+      text-align: center;
+      top: 38px;
+      left: -1px;
+    }
+
+    .d3-tip.n:after {
+      margin: -1px 0 0 0;
+      top: 100%;
+      left: 0;
+    }
+  </style>
+</head>
+
+
+<body>
+  <div class="column is-flex-mobile is-inline-tablet is-block-desktop">
+
+    <div id="top"> </div>
+    <a id="top"></a>
+
+    <div class="column is-hidden-touch">
+      <div class="header">
+        <ul class="main-nav">
+          <li id="logo"><a href="#" class="navbar-item">
+              <img src="images/education2.jpg" alt="user image">
+            </a></li>
+          <li> <button><a href="#top">Homepage</a></button> </li>
+          <li><a href="#Intro">Introduction</a></li>
+          <li><a href="#Vis">Visualisation 1</a></li>
+          <li><a href="#Vis2">Visualisation 2</a></li>
+          <li><a href="#Info">Dataset</a></li>
+        </ul>
+      </div>
+    </div>
+
+
+    <!-- navbar-menu end -->
+
+
+    <header>
+      <img src="images/education2.jpg" alt="header logo image" width="550" height="250">
+    </header>
+
+
+
+    <!-- header end -->
+
+
+    <main class="site-content">
+      <div class="text">
+        <hr>
+        <p id="center4">Adult Education Level</p>
+
+        <p style="text-align:justify;">The changing trend of adult education level in a country is influenced by many
+          aspects, such as the economic strength of the country, investment in education and so on. With the passage of
+          time, the role of education becomes more and more significant.
+          <br>
+          <br>
+          The level of adult (25-64) education actually reflects the educational level of the country's labor force,
+          that is, the quality of the labor force. High quality will promote the development of the economy. As a
+          result, countries continue to increase investment in education.For a country, education decides the future of
+          a country and a nation, which is the most fundamental cause of a nation. Therefore, it is necessary to study
+          the visualisation of the trend of adult education. This visualisation focuses on the trends of education
+          levels in countries around the world in the past decade (2008-2017).</p>
+
+        <br>
+
+
+        <div id="Intro">
+          <hr>
+        </div>
+
+        <p id="center1">Data Information and Questions</p>
+
+        <p style="text-align:justify;">This indicator looks at adult education level as defined by the highest level of
+          education completed by the 25-64 year-old population. below upper-secondary(BUPPSRY), upper secondary(UPPSRY)
+          and tertiary education(TRY). Upper secondary education typically follows completion of lower secondary
+          schooling. Lower secondary education completes provision of basic education, usually in a more
+          subject-oriented way and with more specialised teachers. The indicator is measured as a percentage of same age
+          population; for tertiary and upper secondary, data are also broken down by gender.</p>
+        <p>There are two questions:</p>
+        <p><b>
+            (1) What is the changing trend of adult education level in the last ten years around the world?<br>
+            (2) What is the trend of gender change in adult education in a country in recent ten years?<br>
+            (3) What are the similarities and differences between different countries in terms of education level in the same period of time?
+          </b>
+          <br>
+          
+          <b>----EXTENSION----
+              (1) The comparison of the level of higher education in each country every year.<br>
+              (2) The similarities and differences of the changing trend of elementary, secondary and higher education in a country in recent ten years.
+              
+          </b>
+        </p>
+
+        <p id="center1">How to use the visualisation (Interactions)</p>
+
+        <p style="text-align:justify;">There are two visualization in the index.html. The first one is a line chart and
+          the second one is a bar graph.
+          In the first visualization, the data of all the countries is shown as many lines. Three filters can be used to
+          filter the data, including country, subject(education level) and time. You can choose a period of time. The
+          chart changes as the filter’s selection. If you don’t choose any country, you can check the data as well.
+          Place the mouse over the line and you can see the specific data.
+          <br><br>
+          The second visualization shows the proportion of tertiary education in different countries. You can select the
+          specific year in the filter. Place the mouse over the histogram and you can see the specific data. </p>
+
+      </div>
+
+      <!-- Visualization 1 -->
+
+      <div id="Vis">
+        <hr>
+      </div>
+
+      <p id="center4">Visualisation 1</p>
+
+      <p id="center2">Study and compare the differences in adult education levels in different countries at different
+        times.</p>
+
+      <div class="info-chart">
+        <div class="tooltip hidden">
+          <p><span class="value">100</span> thousand</p>
+        </div>
+        <!-- <div class="key">
+          <ul>
+            <li>
+              <span style="background: #F8B436; border-color: #FF4321;"></span>
+              <p> Male</p>
+            </li>
+            <li>
+              <span style="background: #E53524; border-color: #FF4321;"></span>
+              <p> Female</p>
+            </li>
+          </ul>
+          </div> -->
+
+      </div>
+
+      <div id="chart_container">
+
+      </div>
+
+
+      <div class="opt_group">
+        <div class="btn-group">
+          <select id="countries_selector" multiple="multiple">
+          </select>
+        </div>
+
+        <div class="btn-group">
+          <select id="subject_selector"></select>
+        </div>
+
+        <div class="btn-group" style="right:0px">
+          <p class="label" style="color:black;font-size:100%">Year Range Selector</p> <input id="yearSlider"
+            type="text" />
+        </div>
+      </div>
+
+
+
+      <!-- Visualization 2 -->
+      <div id="Vis2">
+        <hr>
+      </div>
+      <p id="center4">Visualisation 2</p>
+
+      <p id="center2">In the same year, the proportion of college degrees in different countries was compared.</p>
+
+      <div>
+        <!--   <div class="tooltip hidden">
+            <p><span class="value">100</span> thousand</p>
+          </div> -->
+
+        <div id="chart_container2">
+
+        </div>
+        <select id="selectButton"></select>
+
+        <svg width="1000" height="600"></svg>
+      </div>
+
+
+
+
+      <div class="text">
+        <div id="Info">
+          <hr>
+        </div>
+        <p id="center4">Dataset</p>
+
+        <p id="center3">
+          1. Data Resource: OECD DATA https://data.oecd.org/
+          <br>
+          <br>
+
+          2. Datasets in this practice: 1)dataset/data2008-2017.csv 2)dataset/OnlyTRY.json
+          <br>
+          <br>
+
+        </p>
+      </div>
+
+      <!-- main body end -->
+
+
+      <div id="lable">
+        <a class="button is-danger is-small" href="#top">TOP</a>
+      </div>
+
+      <!-- lable end -->
+
+
+      <footer>
+        CS5044 -- Information Visualization
+      </footer>
+    </main>
+  </div>
+  <script src="myVis.js"></script>
+
+
+  <script>
+
+    var svg = d3.select("svg"),
+      margin = {top: 20, right: 60, bottom: 30, left: 60},
+      width = +svg.attr("width") - margin.left - margin.right,
+      height = +svg.attr("height") - margin.top - margin.bottom;
+
+    var x = d3.scaleBand().rangeRound([0, width]).padding(0.1),
+      y = d3.scaleLinear().rangeRound([height, 0]);
+
+    var g = svg.append("g")
+      .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+    var div = d3.select('body').append('div')     //add tip for data
+      .attr('class', 'd3-tip')
+      .style('opacity', 0);
+
+    d3.json("./dataset/OnlyTRY.json")
+      .then((data) => {
+        var allGroup = d3.map(data, function (d) { return (d.TIME) }).keys()
+        d3.select("#selectButton")
+          .selectAll('myOptions')
+          .data(allGroup)
+          .enter()
+          .append('option')
+          .text(function (d) { return d; }) // text showed in the menu
+          .attr("value", function (d) { return d; }) // corresponding value returned by the button
+
+
+        x.domain(data.map(function (d) { return d.LOCATION; }));
+        y.domain([0, d3.max(data, function (d) { return d.Value / 100; })]);
+
+        g.append("g")
+          .attr("class", "axis axis--x")
+          .attr("transform", "translate(0," + height + ")")
+          .call(d3.axisBottom(x));
+
+        g.append("g")
+          .attr("class", "axis axis--y")
+          .call(d3.axisLeft(y).ticks(10, "%"))
+          .append("text")
+          .attr("transform", "rotate(-90)")
+          .attr("y", 6)
+          .attr("dy", "0.71em")
+          .attr("text-anchor", "end")
+          .text("Value");
+
+        g.append("g")
+          .selectAll(".bar")
+          .data(data.filter(function (d) { return d.TIME == allGroup[0] }))
+          .enter().append("rect")
+          .attr("class", "bar")
+          .attr("x", function (d) { return x(d.LOCATION); })
+          .attr("y", function (d) { return y(d.Value / 100); })
+          .attr("width", x.bandwidth())
+          .attr("height", function (d) { return height - y(d.Value / 100); })
+          .on('mouseover', function (d) {    //add mouseover event
+            div.transition()
+              .duration(100)
+              .style('opacity', 0.9);
+            div.html("<span id='tip' style='color: red'>Country:" + (d.LOCATION) + ",  " + "</br>Value:" + (d.Value) + "%</span>")         //content on tip
+              .style('left', (d3.event.pageX) + 'px')  //position of tip
+              .style('top', (d3.event.pageY - 1) + 'px')
+          })
+          .on('mouseout', function (d) {
+            div.transition()
+              .duration(100) // <<<<<<<<========== tweak this to your liking
+              .style("opacity", 0);
+          })
+
+
+
+        console.log(data)
+
+        // / A function that update the chart
+        function update(selectedGroup) {
+
+          // remove old data
+          g.selectAll(".bar").remove();
+
+          g.append("g")
+            .selectAll(".bar")
+            .data(data.filter(function (d) { return d.TIME == selectedGroup }))
+            .enter().append("rect")
+            .attr("class", "bar")
+            .attr("x", function (d) { return x(d.LOCATION); })
+            .attr("y", function (d) { return y(d.Value / 100); })
+            .attr("width", x.bandwidth())
+            .attr("height", function (d) { return height - y(d.Value / 100); })
+            .on('mouseover', function (d) {    //add mouseover event
+              div.transition()
+                .duration(100)
+                .style('opacity', .9);
+              div.html("<span id='tip' style='color: red'>Country:" + (d.LOCATION) + ",  " + "</br>Value:" + (d.Value) + "%</span>")         //content on tip
+                .style('left', (d3.event.pageX) + 'px')  //position of tip
+                .style('top', (d3.event.pageY - 1) + 'px')
+            })
+            .on('mouseout', (d, i) => {
+              div.transition()
+                .duration(100) // <<<<<<<<========== tweak this to your liking
+                .style("opacity", 0);
+            })
+
+
+        }
+
+        // When the button is changed, run the updateChart function
+        d3.select("#selectButton").on("change", function (d) {
+          // recover the option that has been chosen
+          var selectedOption = d3.select(this).property("value")
+          // run the updateChart function with this selected option
+          update(selectedOption)
+        })
+
+      })
+
+      .catch((error) => {
+        throw error;
+      });
+
+    function type(d) {      //deal with data
+      d.LOCATION = + d.LOCATION;
+      return d;
+    }
+
+  </script>
+
+</body>
+
+</html>
